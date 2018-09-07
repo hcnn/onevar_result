@@ -3,7 +3,7 @@
 
 int main()
 {
-    struct OnevarResult res;
+    OnevarResult res;
 
     res.x = 123;
     res.numeval = 10000;

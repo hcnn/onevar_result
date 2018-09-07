@@ -1,8 +1,8 @@
 {
   "name": "onevar_result",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repo": "hcnn/onevar_result",
-  "description": "struct for results of a single-variable optimization",
+  "description": "typdef struct for results of a single-variable optimization",
   "keywords": ["single-variable optimization", "one-variable optimization"],
   "license": "MIT",
   "src": ["onevar_result.c", "onevar_result.h"]
